@@ -1,1 +1,4 @@
-# tmux_config_file
+#tmux config file
+
+initial configuration to quickly start using tmux.
+
