@@ -10,5 +10,5 @@ The content of the tmux config are tmux commands. Settings in the config file ar
 
 😎😎😎😎😎
 
-## What the web looks like
+## What the tmux looks like
 ![image](https://user-images.githubusercontent.com/63064991/128617999-d173762e-d9d5-431b-8a57-cb7291893ab1.png)
